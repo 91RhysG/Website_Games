@@ -1,0 +1,10 @@
+C:\Users\rhysg\OneDrive\Documents\Repos\Games.Db\Games.Db\bin\Debug\Games.Db.dacpac
+C:\Users\rhysg\OneDrive\Documents\Repos\Games.Db\Games.Db\bin\Debug\Games.Db.dll
+C:\Users\rhysg\OneDrive\Documents\Repos\Games.Db\Games.Db\bin\Debug\Games.Db.pdb
+C:\Users\rhysg\OneDrive\Documents\Repos\Games.Db\Games.Db\obj\Debug\Games.Db.sqlproj.AssemblyReference.cache
+C:\Users\rhysg\OneDrive\Documents\Repos\Games.Db\Games.Db\obj\Debug\Games.Db.dll
+C:\Users\rhysg\OneDrive\Documents\Repos\Games.Db\Games.Db\obj\Debug\Games.Db.pdb
+C:\Users\rhysg\OneDrive\Documents\Repos\Games.Db\Games.Db\obj\Debug\Model.xml
+C:\Users\rhysg\OneDrive\Documents\Repos\Games.Db\Games.Db\obj\Debug\refactor.xml
+C:\Users\rhysg\OneDrive\Documents\Repos\Games.Db\Games.Db\obj\Debug\postdeploy.sql
+C:\Users\rhysg\OneDrive\Documents\Repos\Games.Db\Games.Db\obj\Debug\predeploy.sql
